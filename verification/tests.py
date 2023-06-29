@@ -50,7 +50,7 @@ TESTS = {
     "Extra": [
         {
             "input": ['transport', 'r', 't'],
-            "answer": False
+            "answer": True     #please change here if I understood the task correctly - it should be True
         },
         {
             "input": ['almaz', 'a', 'l'],
